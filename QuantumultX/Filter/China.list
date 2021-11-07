@@ -269,7 +269,6 @@ host-suffix, wiley.com, direct
 host-suffix, worldbank.org, direct
 host-suffix, worldscientific.com, direct
 # > Other
-host-suffix, cn, direct
 host-suffix, 360in.com, direct
 host-suffix, 51ym.me, direct
 host-suffix, 8686c.com, direct
